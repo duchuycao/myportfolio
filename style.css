@@ -1,0 +1,18 @@
+.gradient-background {
+    background: linear-gradient(300deg, white, blue, gold);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+.image{
+    border-radius: 50%;
+}
+
+a:link {
+    color: gold;
+    background-color: transparent;
+    text-decoration: none;
+    align-content: center;
+    font-family: "Merriweather",serif;;
+}
+
